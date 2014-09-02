@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["java-standalone-neo4j"]}]}
+{"attributes":{},"projectTypeId":"maven","builder":"maven","runner":"java-standalone-neo4j","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
